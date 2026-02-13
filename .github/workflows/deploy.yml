@@ -1,4 +1,4 @@
-name: Deploy Website CI/CD
+name: index update html
 
 on:
   push:
